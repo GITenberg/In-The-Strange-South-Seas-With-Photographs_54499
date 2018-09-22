@@ -1,5 +1,8 @@
 _repo: In-The-Strange-South-Seas-With-Photographs_54499
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54499-h/images/cover.jpg
 creator:
   author:
     agent_name: Grimshaw, Beatrice
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46026
     wikipedia: https://en.wikipedia.org/wiki/Beatrice_Grimshaw
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54499#In-The-Strange-South-Seas-With-Photographs
 gutenberg_issued: '2017-04-07'
 gutenberg_type: Text
 identifiers:
